@@ -1,2 +1,2 @@
 # react-node-webpack
-学习用
+菜鸟学习用
